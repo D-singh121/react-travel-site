@@ -19,8 +19,6 @@ import {TbGridDots} from "react-icons/tb"
         setActive("navBar")
     } 
      
-
-
     return (
       <section className='navBarSection'>
         <header className='header flex'>
