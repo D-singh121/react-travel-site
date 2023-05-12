@@ -95,7 +95,7 @@ body{
 
 @media screen and (min-width:1240px) {
     .container{
-        width: 80% !important;
+        width: 90% !important;
         margin: auto;
         
     } 

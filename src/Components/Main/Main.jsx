@@ -108,7 +108,40 @@ const Data = [
     grade:'CULTURAL RELAX',
     fees: '$500',
     description: 'Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.'
-  }
+  },
+  {
+    id:10,  
+    imgSrc:img6,
+    destTitle:'Dal lake',
+    location:'Shree Nagar',
+    grade:'CULTURAL RELAX',
+    fees: '$500',
+    description: 'Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.'
+  },{
+    id:11,  
+    imgSrc:img6,
+    destTitle:'Dal lake',
+    location:'Shree Nagar',
+    grade:'CULTURAL RELAX',
+    fees: '$500',
+    description: 'Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.'
+  },{
+    id:12,  
+    imgSrc:img6,
+    destTitle:'Dal lake',
+    location:'Shree Nagar',
+    grade:'CULTURAL RELAX',
+    fees: '$500',
+    description: 'Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.'
+  },{
+    id:13,  
+    imgSrc:img6,
+    destTitle:'Dal lake',
+    location:'Shree Nagar',
+    grade:'CULTURAL RELAX',
+    fees: '$500',
+    description: 'Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.'
+  },
 
 ]
 
