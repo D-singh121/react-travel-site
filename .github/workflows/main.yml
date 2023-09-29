@@ -18,11 +18,19 @@ jobs:
           node-version: 18
           
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+        working-directory: ./react-travel-site
 
       - name: Buile React app
         run: npm run build
+        working-directory: ./react-travel-site
 
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages
+          folder: react-travel-site/build
+        
 
 
 
