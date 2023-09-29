@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Update Browserslist
+      - name: Update Browserslist package
         run: npx update-browserslist-db@latest
 
       - name: Build packages
