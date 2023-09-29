@@ -24,7 +24,7 @@ import {TbGridDots} from "react-icons/tb"
         <header className='header flex'>
 
             <div className='logoDiv'>
-                <a href='#' className='logo flex'>
+                <a href='' className='logo flex'>
                 <h1><SiYourtraveldottv className ="icon"/> D.Travel.</h1>
                 </a>
             </div>
@@ -33,36 +33,36 @@ import {TbGridDots} from "react-icons/tb"
                 <ul className="navlists flex">
                     
                     <li className="navItem">
-                        <a href="#" className='navLink'>Home</a>
+                        <a href="" className='navLink'>Home</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>Packages</a>
+                        <a href="" className='navLink'>Packages</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>About</a>
+                        <a href="" className='navLink'>About</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>Shop</a>
+                        <a href="" className='navLink'>Shop</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>Pages</a>
+                        <a href="" className='navLink'>Pages</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>Contacts</a>
+                        <a href="" className='navLink'>Contacts</a>
                     </li>
 
                     <li className="navItem">
-                        <a href="#" className='navLink'>News</a>
+                        <a href="" className='navLink'>News</a>
                     </li>
 
 
                     <button className='btn'>
-                    <a href='# '> Book Now</a>
+                    <a href=' '> Book Now</a>
                     </button>
                 </ul>
 
