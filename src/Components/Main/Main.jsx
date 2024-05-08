@@ -152,7 +152,7 @@ const Main = () => {
  },[])
 
   return (
-    <section className='main container section'>
+    <section id='package' className='main container section'>
         <div className="secTitle">
           <h3 data-aos = "fade-left" className='title'>
             Most visited places..
